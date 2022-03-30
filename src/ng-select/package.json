@@ -1,10 +1,10 @@
 {
-  "name": "@ng-select/ng-select",
-  "version": "3.2.0",
+  "name": "@guettlerlogistik/ng-select",
+  "version": "8.1.1-fork",
   "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
   "author": "@ng-select/ng-select",
   "license": "MIT",
-  "repository": "ng-select/ng-select",
+  "repository": "guettlerlogistik/ng-select",
   "engines": {
     "node": ">= 12.20.0",
     "npm": ">= 6.0.0"
